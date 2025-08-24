@@ -1,0 +1,3 @@
+/root/code/90/build/CMakeFiles/rebuild_cache.dir
+/root/code/90/build/CMakeFiles/main.dir
+/root/code/90/build/CMakeFiles/edit_cache.dir

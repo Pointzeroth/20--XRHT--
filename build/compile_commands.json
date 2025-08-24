@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/root/code/90/build",
+  "command": "/usr/bin/c++   -I/root/code/90/include -I/root/code/90/src -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx   -Wall -mcpu=native -flto -pthread -g   -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -std=gnu++1z -o CMakeFiles/main.dir/src/ICar.cpp.o -c /root/code/90/src/ICar.cpp",
+  "file": "/root/code/90/src/ICar.cpp"
+},
+{
+  "directory": "/root/code/90/build",
+  "command": "/usr/bin/c++   -I/root/code/90/include -I/root/code/90/src -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx   -Wall -mcpu=native -flto -pthread -g   -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -std=gnu++1z -o CMakeFiles/main.dir/src/ImagePrc.cpp.o -c /root/code/90/src/ImagePrc.cpp",
+  "file": "/root/code/90/src/ImagePrc.cpp"
+},
+{
+  "directory": "/root/code/90/build",
+  "command": "/usr/bin/c++   -I/root/code/90/include -I/root/code/90/src -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx   -Wall -mcpu=native -flto -pthread -g   -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -std=gnu++1z -o CMakeFiles/main.dir/src/Control.cpp.o -c /root/code/90/src/Control.cpp",
+  "file": "/root/code/90/src/Control.cpp"
+},
+{
+  "directory": "/root/code/90/build",
+  "command": "/usr/bin/c++   -I/root/code/90/include -I/root/code/90/src -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx   -Wall -mcpu=native -flto -pthread -g   -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -std=gnu++1z -o CMakeFiles/main.dir/src/Pid.cpp.o -c /root/code/90/src/Pid.cpp",
+  "file": "/root/code/90/src/Pid.cpp"
+},
+{
+  "directory": "/root/code/90/build",
+  "command": "/usr/bin/c++   -I/root/code/90/include -I/root/code/90/src -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx   -Wall -mcpu=native -flto -pthread -g   -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -std=gnu++1z -o CMakeFiles/main.dir/src/SpeedCommand2.cpp.o -c /root/code/90/src/SpeedCommand2.cpp",
+  "file": "/root/code/90/src/SpeedCommand2.cpp"
+}
+]
